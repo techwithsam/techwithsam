@@ -11,3 +11,8 @@
 
 
 Am just trying out this github readme, i will work on it asap. Thanks
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=acctgen1) 
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=acctgen1&repo=flutter-push-notification-without-firebase)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=acctgen1&repo=world-breaking-news)
