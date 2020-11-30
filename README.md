@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on any Flutter project
 - 🤔 I’m looking for help with Nodejs
 - 💬 Ask me about Flutter/Dart
-- 📫 How to reach me: twitter
+- 📫 How to reach me: [Twitter](https://twitter.com/iamsamadekunle)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: In this world nothing matters eventually.
 
