@@ -9,11 +9,11 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: In this world nothing matters eventually.
 
-
+[![Github view](https://komarev.com/ghpvc/?username=acctgen1&label=Views&color=blue&style=plastic)](https://twitter.com/iamsamadekunle)
 [![Twitter: iamsamadekunle](https://img.shields.io/twitter/follow/iamsamadekunle?style=social)](https://twitter.com/iamsamadekunle)
 [![Linkedin: acctgen1](https://img.shields.io/badge/-acctgen1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acctgen1/)](https://www.linkedin.com/in/acctgen1/)
 [![GitHub acctgen1](https://img.shields.io/github/followers/acctgen1?label=follow&style=social)](https://github.com/acctgen1)
-[![website](https://img.shields.io/badge/PortfolioWebsite-acctgen1.dev-2648ff?style=flat-square&logo=google-chrome)](https://acctgen1.hashnode.dev/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-Blog-2648ff?style=flat-square&logo=google-chrome)](https://acctgen1.hashnode.dev/)
 
 ---
 <details open>
