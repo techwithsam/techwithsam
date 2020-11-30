@@ -1,11 +1,11 @@
-### Hi 👋, I'm Samuel.
+### Hi 👋, I'm [Samuel (acctgen1)](https://www.google.com/search?q=samuel+adekunle+acctgen1&oq=samuel+adekunle+acctgen1).
 
-- 🔭 I’m currently working on a lot of Flutter projects i.e 1app, Library app, restaurant UI design, 1app news etc.
+- 🔭 I’m currently working on a lot of Flutter projects i.e [1app](https://play.google.com/store/apps/details?id=com.obounce.oneapp1), Library app, restaurant UI design, 1app news etc.
 - 🌱 I’m currently learning Database management using MySQL, PHP, and Nodejs
 - 👯 I’m looking to collaborate on any Flutter project or any open source projects
 - 🤔 I’m looking for help with Nodejs and MySQL 
 - 💬 Ask me about Flutter/Dart or any tech related stuff
-- 📫 How to reach me: [Twitter](https://twitter.com/iamsamadekunle) | [Youtube](https://www.youtube.com/channel/UCRYjIF5HAXc9m52rC6dmOCQ) | [Medium](https://acctgen1.medium.com) | [Hashnode](https://acctgen1.hashnode.dev/)
+- 📫 How to reach me: [Twitter](https://twitter.com/iamsamadekunle) | [Youtube](https://www.youtube.com/channel/UCRYjIF5HAXc9m52rC6dmOCQ) | [Medium](https://acctgen1.medium.com) | [Hashnode](https://acctgen1.hashnode.dev/) | [Techpadi](https://techpadi.africa/author/acctgen1/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: In this world nothing matters eventually.
 
