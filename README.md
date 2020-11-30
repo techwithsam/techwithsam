@@ -1,5 +1,7 @@
-### Hi 👋, I'm [Samuel (acctgen1)](https://www.google.com/search?q=samuel+adekunle+acctgen1&oq=samuel+adekunle+acctgen1).
+<H3 align='center.>Hi 👋, I'm [Samuel (acctgen1)](https://www.google.com/search?q=samuel+adekunle+acctgen1&oq=samuel+adekunle+acctgen1).</H3>
+ 
 
+<p align='center'>I am a Software Developer / Mobile Developer(Both Android and iOS) using Flutter, I build solutions.</p>
 - 🔭 I’m currently working on a lot of Flutter projects i.e [1app](https://play.google.com/store/apps/details?id=com.obounce.oneapp1), Library app, restaurant UI design, 1app news etc.
 - 🌱 I’m currently learning Database management using MySQL, PHP, and Nodejs
 - 👯 I’m looking to collaborate on any Flutter project or any open source projects
