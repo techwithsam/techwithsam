@@ -10,9 +10,24 @@
 - ⚡ Fun fact: In this world nothing matters eventually.
 
 
-Am just trying out this github readme, i will work on it asap. Thanks
+[![Twitter: iamsamadekunle](https://img.shields.io/twitter/follow/iamsamadekunle?style=social)](https://twitter.com/iamsamadekunle)
+[![Linkedin: acctgen1](https://img.shields.io/badge/-acctgen1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acctgen1/)](https://www.linkedin.com/in/acctgen1/)
+[![GitHub acctgen1](https://img.shields.io/github/followers/acctgen1?label=follow&style=social)](https://github.com/acctgen1)
+[![website](https://img.shields.io/badge/PortfolioWebsite-acctgen1.dev-2648ff?style=flat-square&logo=google-chrome)](https://acctgen1.hashnode.dev/)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=acctgen1) 
+
+<a href="https://github.com/acctgen1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acctgen1&theme=light&hide_langs_below=1" />
+</a> 
+<a href="https://github.com/acctgen1">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=acctgen1&show_icons=true&theme=light&line_height=27" alt="Samuel's github stats"/>
+</a>
+<!-- ![Most language used](https://github-readme-stats.vercel.app/api/top-langs/?username=acctgen1) 
+![Github stats](https://github-readme-stats.vercel.app/api?username=acctgen1) -->
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=acctgen1&repo=flutter-push-notification-without-firebase)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=acctgen1&repo=world-breaking-news)
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
