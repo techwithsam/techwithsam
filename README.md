@@ -15,18 +15,26 @@
 [![GitHub acctgen1](https://img.shields.io/github/followers/acctgen1?label=follow&style=social)](https://github.com/acctgen1)
 [![website](https://img.shields.io/badge/PortfolioWebsite-acctgen1.dev-2648ff?style=flat-square&logo=google-chrome)](https://acctgen1.hashnode.dev/)
 
+---
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <a href="https://github.com/acctgen1">
+  <img src = "https://github-readme-stats.vercel.app/api?username=acctgen1&show_icons=true&theme=tokyonight&line_height=33">
+  </a>
+  <a href="https://github.com/acctgen1">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=acctgen1&hide=css,java,html&theme=tokyonight">
+  </a>
+</p>
+</details>
 
-<a href="https://github.com/acctgen1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acctgen1&theme=light&hide_langs_below=1" />
-</a> 
-<a href="https://github.com/acctgen1">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=acctgen1&show_icons=true&theme=light&line_height=27" alt="Samuel's github stats"/>
+  <a href="https://github.com/acctgen1/flutter-push-notification-without-firebase">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=actgen1&repo=flutter-push-notification-without-firebase&theme=light" />
 </a>
-<!-- ![Most language used](https://github-readme-stats.vercel.app/api/top-langs/?username=acctgen1) 
-![Github stats](https://github-readme-stats.vercel.app/api?username=acctgen1) -->
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=acctgen1&repo=flutter-push-notification-without-firebase)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=acctgen1&repo=world-breaking-news)
+<a href="https://github.com/acctgen1/world-breaking-news">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=world-breaking-news&theme=dark" />
+</a>
 
 <div align="center">
 
