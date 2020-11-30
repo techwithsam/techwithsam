@@ -1,4 +1,4 @@
-### Hi 👋, I'm [Samuel acctgen1](https://www.google.com/search?q=samuel+adekunle+acctgen1&oq=samuel+adekunle+acctgen1)
+### Hi 👋, I'm [Samuel(acctgen1)](https://www.google.com/search?q=samuel+adekunle+acctgen1&oq=samuel+adekunle+acctgen1)
 
 <p align='center'>I am a Software Developer / Mobile Developer(Both Android and iOS) using Flutter, I build solutions.</p>
 
