@@ -16,6 +16,9 @@
 [![Linkedin: acctgen1](https://img.shields.io/badge/-acctgen1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acctgen1/)](https://www.linkedin.com/in/acctgen1/)
 [![GitHub acctgen1](https://img.shields.io/github/followers/acctgen1?label=follow&style=social)](https://github.com/acctgen1)
 [![website](https://img.shields.io/badge/PortfolioWebsite-Blog-2648ff?style=flat-square&logo=google-chrome)](https://acctgen1.hashnode.dev/)
+<a href="https://dev.to/acctgen1">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Samuel Adekunle's DEV Profile" height="30" width="30">
+</a>
 
 ---
 <details open>
