@@ -44,3 +44,12 @@
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories and do follow 😄!
+
+_requestPermission() async {
+  Map<Permission, PermissionStatus> statuses = await [
+    Permission.storage,
+  ].request();
+
+  final info = statuses[Permission.storage].toString();
+  print('$info');
+}
