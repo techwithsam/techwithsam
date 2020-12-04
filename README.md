@@ -37,8 +37,8 @@
   <a href="https://github.com/acctgen1/flutter-push-notification-without-firebase">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acctgen1&repo=flutter-push-notification-without-firebase&theme=dark" />
 </a>
-<a href="https://github.com/acctgen1/world-breaking-news">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acctgen1&repo=world-breaking-news&theme=dark" />
+<a href="https://github.com/acctgen1/Flutter-Tutorial-Projects">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acctgen1&repo=Flutter-Tutorial-Projects&theme=dark" />
 </a>
 
 <div align="center">
