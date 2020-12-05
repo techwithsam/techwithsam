@@ -35,10 +35,10 @@
 </details>
 
   <a href="https://github.com/acctgen1/flutter-push-notification-without-firebase">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acctgen1&repo=flutter-push-notification-without-firebase&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acctgen1&repo=flutter-push-notification-without-firebase&theme=tokyonight" />
 </a>
 <a href="https://github.com/acctgen1/Flutter-Tutorial-Projects">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acctgen1&repo=Flutter-Tutorial-Projects&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acctgen1&repo=Flutter-Tutorial-Projects&theme=tokyonight" />
 </a>
 
 <div align="center">
