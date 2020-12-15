@@ -2,7 +2,7 @@
 
 <p align='center'>I am a Software Developer / Mobile Developer(Both Android and iOS) using Flutter, I build solutions.</p>
 
-- 🔭 I’m currently working on a lot of Flutter projects i.e [1app on android](https://play.google.com/store/apps/details?id=com.obounce.oneapp1), [1app on iOS](https://apps.apple.com/ng/app/1app-one-app-all-payments/id1517497322), [Library app](https://play.google.com/store/apps/details?id=com.obounce.babajide_imran01), restaurant UI design etc.
+- 🔭 I’m currently working on or updating some of my Flutter projects i.e [1app on android](https://play.google.com/store/apps/details?id=com.obounce.oneapp1), [1app on iOS](https://apps.apple.com/ng/app/1app-one-app-all-payments/id1517497322), [Library app](https://play.google.com/store/apps/details?id=com.obounce.babajide_imran01), restaurant UI design etc.
 - 🌱 I’m currently learning Database management using MySQL, PHP, and Nodejs
 - 👯 I’m looking to collaborate on any Flutter project or any open source projects
 - 🤔 I’m looking for help with Nodejs and MySQL 
