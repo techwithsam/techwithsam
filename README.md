@@ -44,7 +44,7 @@ I'm strongly interested in mentoring and teaching people in the tech industry.</
   <a href="https://github.com/acctgen1/flutter-push-notification-without-firebase">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acctgen1&repo=flutter-push-notification-without-firebase&theme=tokyonight" />
 </a>
-<a href="https://github.com/acctgen1/Flutter-Tutorial-Projects">
+<a href="https://github.com/acctgen1/flutter-app-hashnode-API">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acctgen1&repo=Flutter-Tutorial-Projects&theme=tokyonight" />
 </a>
 
