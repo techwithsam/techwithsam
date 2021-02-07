@@ -13,7 +13,7 @@ I'm strongly interested in mentoring and teaching people in the tech industry.</
 - 👯 I’m looking to collaborate on any Flutter project or any open source projects
 - 🤔 I’m looking for help with Nodejs and MySQL 
 - 💬 Ask me about Flutter/Dart or any tech related stuff
-- 📫 How to reach me: [Twitter](https://twitter.com/techwithsam) | [Youtube](https://www.youtube.com/channel/UCRYjIF5HAXc9m52rC6dmOCQ) | [Medium](https://acctgen1.medium.com) | [Hashnode](https://acctgen1.hashnode.dev/) | [Techpadi](https://techpadi.africa/author/acctgen1/)
+- 📫 How to reach me: [Twitter](https://twitter.com/techwithsam_) | [Youtube](https://www.youtube.com/c/TechWithSam) | [Medium](https://acctgen1.medium.com) | [Hashnode](https://acctgen1.hashnode.dev/) | [Techpadi](https://techpadi.africa/author/acctgen1/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: In this world nothing matters eventually.
 
@@ -26,6 +26,7 @@ I'm strongly interested in mentoring and teaching people in the tech industry.</
 <a href="https://dev.to/acctgen1">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Samuel Adekunle's DEV Profile" height="30" width="30">
 </a>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="acctgen1"><a class="LI-simple-link" href='https://ng.linkedin.com/in/acctgen1?trk=profile-badge'>Samuel Adekunle</a></div>
 
 ---
 <details open>
