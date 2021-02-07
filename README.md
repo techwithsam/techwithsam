@@ -1,4 +1,4 @@
-### Hi 👋, I'm [Samuel Adekunle](https://twitter.com/iamsamadekunle)
+### Hi 👋, I'm [Samuel Adekunle](https://twitter.com/techwithsam_)
 <!--(https://www.google.com/search?q=samuel+adekunle+acctgen1&oq=samuel+adekunle+acctgen1)-->
 
 <!--<p align='center'>I am a Software Developer / Mobile Developer(Both Android and iOS) using Flutter, I build solutions.</p> -->
@@ -13,15 +13,15 @@ I'm strongly interested in mentoring and teaching people in the tech industry.</
 - 👯 I’m looking to collaborate on any Flutter project or any open source projects
 - 🤔 I’m looking for help with Nodejs and MySQL 
 - 💬 Ask me about Flutter/Dart or any tech related stuff
-- 📫 How to reach me: [Twitter](https://twitter.com/iamsamadekunle) | [Youtube](https://www.youtube.com/channel/UCRYjIF5HAXc9m52rC6dmOCQ) | [Medium](https://acctgen1.medium.com) | [Hashnode](https://acctgen1.hashnode.dev/) | [Techpadi](https://techpadi.africa/author/acctgen1/)
+- 📫 How to reach me: [Twitter](https://twitter.com/techwithsam) | [Youtube](https://www.youtube.com/channel/UCRYjIF5HAXc9m52rC6dmOCQ) | [Medium](https://acctgen1.medium.com) | [Hashnode](https://acctgen1.hashnode.dev/) | [Techpadi](https://techpadi.africa/author/acctgen1/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: In this world nothing matters eventually.
 
-[![Profile views](https://gpvc.arturio.dev/acctgen1)](https://twitter.com/iamsamadekunle) 
-[![Github view](https://komarev.com/ghpvc/?username=acctgen1&label=Github-Views&color=blue&style=plastic)](https://twitter.com/iamsamadekunle) 
-[![Twitter: iamsamadekunle](https://img.shields.io/twitter/follow/iamsamadekunle?style=social)](https://twitter.com/iamsamadekunle)
+[![Profile views](https://gpvc.arturio.dev/acctgen1)](https://twitter.com/techwithsam_) 
+[![Github view](https://komarev.com/ghpvc/?username=techwithsam&label=Github-Views&color=blue&style=plastic)](https://twitter.com/techwithsam_) 
+[![Twitter: techwithsam_](https://img.shields.io/twitter/follow/techwithsam_?style=social)](https://twitter.com/techwithsam_)
 [![Linkedin: acctgen1](https://img.shields.io/badge/-acctgen1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acctgen1/)](https://www.linkedin.com/in/acctgen1/)
-[![GitHub acctgen1](https://img.shields.io/github/followers/acctgen1?label=follow&style=social)](https://github.com/acctgen1)
+[![GitHub acctgen1](https://img.shields.io/github/followers/techwithsam?label=follow&style=social)](https://github.com/techwithsam)
 [![website](https://img.shields.io/badge/PortfolioWebsite-Blog-2648ff?style=flat-square&logo=google-chrome)](https://acctgen1.hashnode.dev/)
 <a href="https://dev.to/acctgen1">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Samuel Adekunle's DEV Profile" height="30" width="30">
@@ -32,20 +32,20 @@ I'm strongly interested in mentoring and teaching people in the tech industry.</
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <a href="https://github.com/acctgen1">
-  <img src = "https://github-readme-stats.vercel.app/api?username=acctgen1&show_icons=true&theme=tokyonight&line_height=33">
+  <a href="https://github.com/techwithsam">
+  <img src = "https://github-readme-stats.vercel.app/api?username=techwithsam&show_icons=true&theme=tokyonight&line_height=33">
   </a>
-  <a href="https://github.com/acctgen1">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=acctgen1&hide=css,java,html&theme=tokyonight">
+  <a href="https://github.com/techwithsam">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=techwithsam&hide=css,java,html&theme=tokyonight">
   </a>
 </p>
 </details>
 
-  <a href="https://github.com/acctgen1/flutter-push-notification-without-firebase">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acctgen1&repo=flutter-push-notification-without-firebase&theme=tokyonight" />
+  <a href="https://github.com/techwithsam/flutter-push-notification-without-firebase">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techwithsam&repo=flutter-push-notification-without-firebase&theme=tokyonight" />
 </a>
-<a href="https://github.com/acctgen1/flutter-app-hashnode-API">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acctgen1&repo=flutter-app-hashnode-API&theme=tokyonight" />
+<a href="https://github.com/techwithsam/flutter-app-hashnode-API">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techwithsam&repo=flutter-app-hashnode-API&theme=tokyonight" />
 </a>
 
 <div align="center">
