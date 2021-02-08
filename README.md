@@ -26,7 +26,7 @@ I'm strongly interested in mentoring and teaching people in the tech industry.</
 <a href="https://dev.to/acctgen1">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Samuel Adekunle's DEV Profile" height="30" width="30">
 </a>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="acctgen1"><a class="LI-simple-link" href='https://ng.linkedin.com/in/techwithsam?trk=profile-badge'>Samuel Adekunle</a></div>
+
 
 ---
 <details open>
