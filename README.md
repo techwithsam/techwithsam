@@ -13,7 +13,7 @@ I'm strongly interested in mentoring and teaching people in the tech industry.</
 - 👯 I’m looking to collaborate on any Flutter project or any open source projects
 - 🤔 I’m looking for help with Nodejs and MySQL 
 - 💬 Ask me about Flutter/Dart or any tech related stuff
-- 📫 How to reach me: [Twitter](https://twitter.com/techwithsam_) | [Youtube](https://www.youtube.com/c/TechWithSam) | [Medium](https://techwithsam.medium.com) | [Hashnode](https://acctgen1.hashnode.dev/) | [Techpadi](https://techpadi.africa/author/acctgen1/)
+- 📫 How to reach me: [Twitter](https://twitter.com/techwithsam_) | [Youtube](https://www.youtube.com/c/TechWithSam) | [Medium](https://techwithsam.medium.com) | [Hashnode](https://techwithsam.hashnode.dev/) | [Techpadi](https://techpadi.africa/author/acctgen1/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: In this world nothing matters eventually.
 
@@ -22,7 +22,7 @@ I'm strongly interested in mentoring and teaching people in the tech industry.</
 [![Twitter: techwithsam_](https://img.shields.io/twitter/follow/techwithsam_?style=social)](https://twitter.com/techwithsam_)
 [![Linkedin: acctgen1](https://img.shields.io/badge/-TechWithSam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/techwithsam/)](https://www.linkedin.com/in/techwithsam/)
 [![GitHub acctgen1](https://img.shields.io/github/followers/techwithsam?label=follow&style=social)](https://github.com/techwithsam)
-[![website](https://img.shields.io/badge/PortfolioWebsite-Blog-2648ff?style=flat-square&logo=google-chrome)](https://acctgen1.hashnode.dev/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-Blog-2648ff?style=flat-square&logo=google-chrome)](https://techwithsam.hashnode.dev/)
 <a href="https://dev.to/acctgen1">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Samuel Adekunle's DEV Profile" height="30" width="30">
 </a>
