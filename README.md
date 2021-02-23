@@ -1,12 +1,14 @@
-### Hi 👋, My name is [Samuel Adekunle](https://twitter.com/techwithsam_)
+### Hi 👋, My name is [Samuel Adekunle](https://twitter.com/techwithsam_) 
 <!--(https://www.google.com/search?q=samuel+adekunle+acctgen1&oq=samuel+adekunle+acctgen1)-->
 
 <!--<p align='center'>I am a Software Developer / Mobile Developer(Both Android and iOS) using Flutter, I build solutions.</p> -->
-<p align='center'>I run the YouTube channel called [TechWithSam](https://www.youtube.com/c/TechWithSam?sub_confirmation=1)! I'm passionate about learning and teaching programming majorly Flutter for the moment.
+<!--<a align='center'>-->
+I run the YouTube channel called [Tech With Sam](https://youtube.com/c/TechWithSam?sub_confirmation=1) ! I'm passionate about learning and teaching programming majorly Flutter for the moment.
 I'm an expert in Flutter & Dart(Android, iOS, and Web).
 I worked a bit with PHP, MySQL, Nodejs, and Python.
 My current focus is Mobile development and database management but the dream is to be into AI/Machine Learning.
-I'm strongly interested in mentoring and teaching people in the tech industry.</p>
+I'm strongly interested in mentoring and teaching people in the tech industry.
+
 
 - 🔭 I’m currently working on or updating some of my Flutter projects i.e [1app on android](https://play.google.com/store/apps/details?id=com.obounce.oneapp1) | [1app on iOS](https://apps.apple.com/ng/app/1app-one-app-all-payments/id1517497322) | [Library app](https://play.google.com/store/apps/details?id=com.obounce.babajide_imran01) | [Hashnode App](https://play.google.com/store/apps/details?id=com.acctgen1.hashnode) | [O'Bounce Technologies](https://play.google.com/store/apps/dev?id=8337051862240891622) etc.
 - 🌱 I’m currently learning Database management using MySQL, PHP, and Nodejs
