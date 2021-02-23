@@ -8,7 +8,7 @@ I worked a bit with PHP, MySQL, Nodejs, and Python.
 My current focus is Mobile development and database management but the dream is to be into AI/Machine Learning.
 I'm strongly interested in mentoring and teaching people in the tech industry.</p>
 
-- 🔭 I’m currently working on or updating some of my Flutter projects i.e [1app on android](https://play.google.com/store/apps/details?id=com.obounce.oneapp1), [1app on iOS](https://apps.apple.com/ng/app/1app-one-app-all-payments/id1517497322), [Library app](https://play.google.com/store/apps/details?id=com.obounce.babajide_imran01), restaurant UI design etc.
+- 🔭 I’m currently working on or updating some of my Flutter projects i.e [1app on android](https://play.google.com/store/apps/details?id=com.obounce.oneapp1) | [1app on iOS](https://apps.apple.com/ng/app/1app-one-app-all-payments/id1517497322) | [Library app](https://play.google.com/store/apps/details?id=com.obounce.babajide_imran01) | [Hashnode App](https://play.google.com/store/apps/details?id=com.acctgen1.hashnode) etc.
 - 🌱 I’m currently learning Database management using MySQL, PHP, and Nodejs
 - 👯 I’m looking to collaborate on any Flutter project or any open source projects
 - 🤔 I’m looking for help with Nodejs and MySQL 
