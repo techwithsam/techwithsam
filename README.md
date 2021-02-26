@@ -53,14 +53,14 @@ I'm strongly interested in mentoring and teaching people in the tech industry.
 
 <div align="center">
 
-<p align = "center">
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=techwithsam&theme=tokyonight)
+<p align = "center">
 
 <h3> ⚙️  GitHub Analytics </h3>
 <img src="https://activity-graph.herokuapp.com/graph?username=techwithsam&show_icons=true&count_private=true&area=true&&color=333333&line=ABD6DFFF&point=89ABE3FF&hide_border=true&theme=tokyonight" />
 </p>
 
-<h3 align="left"> 🧡 Support:</h3>
+<h3 align="center"> 🧡 Support:</h3>
 <a href="https://www.buymeacoffee.com/acctgen1"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=acctgen1&button_colour=060606&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00"></a>
 
 ### Show some ❤️ by starring some of the repositories and do follow 😄!
