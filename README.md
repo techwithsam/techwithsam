@@ -53,7 +53,11 @@ I'm strongly interested in mentoring and teaching people in the tech industry.
 </a>
  </p>
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=techwithsam&theme=tokyonight)
+<p align="center">
+  <a href="https://github.com/techwithsam">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=techwithsam&theme=tokyonight" />
+    </a>
+  </p>
 
 <h3>⚙️  GitHub Analytics </h3>
 <p align = "center">
