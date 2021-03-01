@@ -68,9 +68,9 @@ I'm strongly interested in mentoring and teaching people in the tech industry.
 -->
 
 <p align = "center">
-  <b align = "center">Support ❤️:</b>
+Support ❤️:
+  
+<a href="https://www.buymeacoffee.com/acctgen1"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=acctgen1&button_colour=060606&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00"></a>
 
-  <a href="https://www.buymeacoffee.com/acctgen1"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=acctgen1&button_colour=060606&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00"></a>
-
-  <b align = "center">### Show some ❤️ by starring some of the repositories and do follow 😄!</b>
+### Show some ❤️ by starring some of the repositories and do follow 😄!
 </p>
