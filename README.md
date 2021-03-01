@@ -29,7 +29,6 @@ I'm strongly interested in mentoring and teaching people in the tech industry.
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Samuel Adekunle's DEV Profile" height="30" width="30">
 </a>
 
-
 ---
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
@@ -44,6 +43,7 @@ I'm strongly interested in mentoring and teaching people in the tech industry.
 </p>
 </details>
 
+<!--
 <p align = "center">
   <a href="https://github.com/techwithsam/flutter-push-notification-without-firebase">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techwithsam&repo=flutter-push-notification-without-firebase&theme=tokyonight" />
@@ -51,20 +51,21 @@ I'm strongly interested in mentoring and teaching people in the tech industry.
 <a href="https://github.com/techwithsam/flutter-app-hashnode-API">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techwithsam&repo=flutter-app-hashnode-API&theme=tokyonight" />
 </a>
- </p>
-
+</p>
+--
 <p align="center">
   <a href="https://github.com/techwithsam">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=techwithsam&theme=tokyonight" />
     </a>
   </p>
-
+--
 <h3>⚙️  GitHub Analytics </h3>
 <p align = "center">
   <a href="https://github.com/techwithsam">
 <img src="https://activity-graph.herokuapp.com/graph?username=techwithsam&show_icons=true&count_private=true&area=true&line=ABD6DFFF&point=89ABE3FF&hide_border=true&theme=tokyonight" />
     </a>
 </p>
+-->
 
 Support ❤️:
 
