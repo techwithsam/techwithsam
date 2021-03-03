@@ -15,7 +15,7 @@ I'm strongly interested in mentoring and teaching people in the tech industry.
 - 👯 I’m looking to collaborate on any Flutter project or any open source projects
 - 🤔 I’m looking for help with Nodejs and MySQL 
 - 💬 Ask me about Flutter/Dart or any tech related stuff
-- 📫 How to reach me: [Twitter](https://twitter.com/techwithsam_) | [Youtube](https://www.youtube.com/c/TechWithSam) | [Medium](https://techwithsam.medium.com) | [Hashnode](https://techwithsam.hashnode.dev/) | [Techpadi](https://techpadi.africa/author/acctgen1/)
+- 📫 How to reach me: [Twitter](https://twitter.com/techwithsam_) | [WhatsApp](https://wa.me/message/JLGQNNTPG64IH1) | [Youtube](https://www.youtube.com/c/TechWithSam) | [Medium](https://techwithsam.medium.com) | [Hashnode](https://techwithsam.hashnode.dev/) | [Techpadi](https://techpadi.africa/author/acctgen1/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: In this world nothing matters eventually.
 
