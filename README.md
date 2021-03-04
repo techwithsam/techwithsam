@@ -38,7 +38,7 @@ I'm strongly interested in mentoring and teaching people in the tech industry.
   <img src = "https://github-readme-stats.vercel.app/api?username=techwithsam&show_icons=true&theme=tokyonight&line_height=33">
   </a>
   <a href="https://github.com/techwithsam">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=techwithsam&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=techwithsam&theme=tokyonight">
   </a>
 </p>
 </details>
