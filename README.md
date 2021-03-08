@@ -33,12 +33,13 @@ I'm strongly interested in mentoring and teaching people in the tech industry.
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
-<p align = "center">
+  
+<p>
   <a href="https://github.com/techwithsam">
-  <img src = "https://github-readme-stats.vercel.app/api?username=techwithsam&show_icons=true&theme=tokyonight&line_height=33">
+  <img height="220em" src = "https://github-readme-stats.vercel.app/api?username=techwithsam&show_icons=true&theme=tokyonight&line_height=33&hide_border=true&count_private=true">
   </a>
   <a href="https://github.com/techwithsam">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=techwithsam&theme=tokyonight">
+  <img height="220em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=techwithsam&theme=tokyonight&hide_border=true&&count_private=true&include_all_commits=true">
   </a>
 </p>
 </details>
