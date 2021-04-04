@@ -46,6 +46,7 @@ I'm strongly interested in mentoring and teaching people in the tech industry.
 
 <details open>
   <summary> 👨‍💻 <b>My Recent Youtube Videos</b>: </summary>
+  <br>
   
   1. [Quick Update on Flutter Webview - (PART 5) & Migration to Null Safety.](https://youtu.be/-34HRpu0AD8)
   2. [Flutter Tutorial - New Trick to Create Customized Bottom Navigation Bar in Flutter.](https://youtu.be/fwimh_2vPgs)
@@ -77,5 +78,6 @@ I'm strongly interested in mentoring and teaching people in the tech industry.
     </a>
 </p>
 -->
-
+<p align = "center">
 ### Show some ❤️ by starring some of the repositories and do follow 😄!
+</p>
