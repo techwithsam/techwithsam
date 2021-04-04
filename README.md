@@ -43,6 +43,7 @@ I'm strongly interested in mentoring and teaching people in the tech industry.
   </a>
 </p>
 </details>
+<br>
 
 <details open>
   <summary> 👨‍💻 <b>My Recent Youtube Videos</b>: </summary>
@@ -78,7 +79,6 @@ I'm strongly interested in mentoring and teaching people in the tech industry.
     </a>
 </p>
 -->
-<br>
 <br>
 <hr>
 <p align = "center">
