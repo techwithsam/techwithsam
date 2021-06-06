@@ -83,5 +83,5 @@ I'm strongly interested in mentoring and teaching people in the tech industry.
 <br>
 <hr>
 <p align = "center">
-Show some ❤️ by starring some of the repositories and do follow 😄!
+Show some ❤️ by starring some of my repositories and do follow 😄!
 </p>
