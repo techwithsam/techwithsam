@@ -20,8 +20,8 @@ I'm strongly interested in mentoring and teaching people in the tech industry.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: In this world nothing matters eventually.
 
-[![Profile views](https://gpvc.arturio.dev/acctgen1)](https://twitter.com/techwithsam_) 
-[![Github view](https://komarev.com/ghpvc/?username=techwithsam&label=Github-Views&color=blue&style=plastic)](https://twitter.com/techwithsam_) 
+[![Profile Views](https://gpvc.arturio.dev/acctgen1)](https://twitter.com/techwithsam_) 
+[![Github view](https://komarev.com/ghpvc/?username=techwithsam&label=Github-Views&color=blue&style=plastic)](https://twitter.com/techwithsam_)
 [![Twitter: techwithsam_](https://img.shields.io/twitter/follow/techwithsam_?style=social)](https://twitter.com/techwithsam_)
 [![Linkedin: acctgen1](https://img.shields.io/badge/-TechWithSam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/techwithsam/)](https://www.linkedin.com/in/techwithsam/)
 [![GitHub acctgen1](https://img.shields.io/github/followers/techwithsam?label=follow&style=social)](https://github.com/techwithsam)
