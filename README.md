@@ -47,7 +47,7 @@ I'm strongly interested in mentoring and teaching people in the tech industry.
 <br>
 
 <details open>
-  <summary> 👨‍💻 <b>My Latest Youtube Videos</b>: </summary>
+  <summary> 👨‍💻 <b>My Recent Youtube Videos</b>: </summary>
   <br>
   
   1. [Quick Update on Flutter Webview - (PART 5) & Migration to Null Safety.](https://youtu.be/-34HRpu0AD8)
