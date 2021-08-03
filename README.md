@@ -14,7 +14,7 @@ I'm strongly interested in mentoring and teaching people in the tech industry.
 - 🌱 I’m currently learning Database management using MySQL, PHP, and Nodejs
 - 👯 I’m looking to collaborate on any Flutter project or any open source projects
 - 🤔 I’m looking for help with Nodejs and MySQL 
-- 💬 Ask me about Flutter/Dart or any tech related stuff
+- 💬 Ask me about Flutter/Dart or any tech related stuff --> check [Stack overflow](https://stackoverflow.com/users/12172250/techwithsam)
 - 📫 How to reach me: [Twitter](https://twitter.com/techwithsam_) | [Discord](https://discord.com/invite/NytgTkyw3R) | [WhatsApp](https://wa.me/message/JLGQNNTPG64IH1) | [Facebook](https://www.facebook.com/acctgen) | [LinkedIn](https://linkedin.com/in/techwithsam)
 - 💬 My Blogs: [Medium](https://techwithsam.medium.com) | [Hashnode](https://techwithsam.hashnode.dev/) | [Techpadi](https://techpadi.africa/author/acctgen1/) | [Youtube](https://www.youtube.com/c/TechWithSam) | [Devto](https://dev.to/techwithsam)
 - 😄 Pronouns: He/His
