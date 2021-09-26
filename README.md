@@ -1,10 +1,10 @@
-### Hi 👋, My name is [Samuel Adekunle](https://twitter.com/techwithsam_) 
+### Hi 👋, I'm [Samuel](https://twitter.com/techwithsam_) 
 <!--(https://www.google.com/search?q=samuel+adekunle+acctgen1&oq=samuel+adekunle+acctgen1)-->
 
 <!--<p align='center'>I am a Software Developer / Mobile Developer(Both Android and iOS) using Flutter, I build solutions.</p> -->
 <!--<p align='center'>-->
-I run the YouTube channel called [Tech With Sam](https://youtube.com/c/TechWithSam?sub_confirmation=1) ! I'm passionate about learning and teaching programming majorly Flutter for the moment.
-I'm an expert in Flutter & Dart(Android, iOS, and Web).
+I'm passionate about learning and teaching programming majorly Flutter at the moment. Subscribe to my YouTube channel - [Tech With Sam](https://youtube.com/c/TechWithSam?sub_confirmation=1). 
+ I'm an expert in Flutter & Dart(Android, iOS, and Web).
 I worked a bit with PHP, MySQL, Nodejs, and Python.
 My current focus is Mobile development and database management but the dream is to be into AI/Machine Learning.
 I'm strongly interested in mentoring and teaching people in the tech industry.
