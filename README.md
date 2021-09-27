@@ -5,6 +5,7 @@
 <!--<p align='center'>-->
 I'm passionate about learning and teaching programming majorly Flutter at the moment. Subscribe to my YouTube channel - [Tech With Sam](https://youtube.com/c/TechWithSam?sub_confirmation=1). 
  I'm an expert in Flutter & Dart(Android, iOS, and Web).
+
 I worked a bit with PHP, MySQL, Nodejs, and Python.
 My current focus is Mobile development and database management but the dream is to be into AI/Machine Learning.
 I'm strongly interested in mentoring and teaching people in the tech industry.
