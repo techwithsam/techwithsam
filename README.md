@@ -4,14 +4,14 @@
 <!--<p align='center'>I am a Software Developer / Mobile Developer(Both Android and iOS) using Flutter, I build solutions.</p> -->
 <!--<p align='center'>-->
 I'm passionate about learning and teaching programming majorly Flutter at the moment. Subscribe to my YouTube channel - [Tech With Sam](https://youtube.com/c/TechWithSam?sub_confirmation=1). 
- I'm an expert in Flutter & Dart(Android, iOS, and Web).
+ I'm an expert in Flutter & Dart (Android, iOS, and Web).
 
-I worked a bit with PHP, MySQL, Nodejs, and Python.
-My current focus is Mobile development and database management but the dream is to be into AI/Machine Learning.
-I'm strongly interested in mentoring and teaching people in the tech industry.
+I work a bit with PHP, MySQL, Nodejs, and Python.
+My current focus is Mobile development and database management, but the dream is to become an AI/Machine Learning expert.
+I'm passionate about teaching and mentoring people in tech industry.
 <!--</p>-->
 
-- 🔭 I’m currently working on or updating some of my Flutter projects i.e [1app on android](https://play.google.com/store/apps/details?id=com.obounce.oneapp1) | [1app on iOS](https://apps.apple.com/ng/app/1app-one-app-all-payments/id1517497322) | [Library app](https://play.google.com/store/apps/details?id=com.obounce.babajide_imran01) | [Hashnode App](https://play.google.com/store/apps/details?id=com.acctgen1.hashnode) | [O'Bounce Technologies](https://play.google.com/store/apps/dev?id=8337051862240891622) etc.
+- 🔭 I’m currently working on/or updating some of my Flutter projects i.e [1app on android](https://play.google.com/store/apps/details?id=com.obounce.oneapp1) | [1app on iOS](https://apps.apple.com/ng/app/1app-one-app-all-payments/id1517497322) | [Library app](https://play.google.com/store/apps/details?id=com.obounce.babajide_imran01) | [Hashnode App](https://play.google.com/store/apps/details?id=com.acctgen1.hashnode) | [O'Bounce Technologies](https://play.google.com/store/apps/dev?id=8337051862240891622) etc.
 - 🌱 I’m currently learning Database management using MySQL, PHP, and Nodejs
 - 👯 I’m looking to collaborate on any Flutter project or any open source projects
 - 🤔 I’m looking for help with Nodejs and MySQL 
