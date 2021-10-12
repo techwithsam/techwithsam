@@ -28,6 +28,7 @@ I'm passionate about teaching and mentoring people in tech industry.
 [![Linkedin: acctgen1](https://img.shields.io/badge/-TechWithSam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/techwithsam/)](https://www.linkedin.com/in/techwithsam/)
 [![GitHub acctgen1](https://img.shields.io/github/followers/techwithsam?label=follow&style=social)](https://github.com/techwithsam)
 [![website](https://img.shields.io/badge/PortfolioWebsite-Blog-2648ff?style=flat-square&logo=google-chrome)](https://dev.to/techwithsam)
+[![twitter](https://img.shields.io/twitter/follow/techwithsam_?label=twitter&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/techwithsam_)
 ### 🛠 &nbsp;Tech Stack
 
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
