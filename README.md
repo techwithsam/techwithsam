@@ -1,18 +1,11 @@
 ### Hi 👋, I'm [Samuel](https://twitter.com/techwithsam_) 
-<!--(https://www.google.com/search?q=samuel+adekunle+acctgen1&oq=samuel+adekunle+acctgen1)-->
 
-<!--<p align='center'>I am a Software Developer / Mobile Developer(Both Android and iOS) using Flutter, I build solutions.</p> -->
-<!--<p align='center'>-->
-I'm passionate about learning and teaching programming majorly Flutter at the moment. Subscribe to my YouTube channel - [Tech With Sam](https://youtube.com/c/TechWithSam?sub_confirmation=1). 
- I'm an expert in Flutter & Dart (Android, iOS, and Web).
+I'm a mobile engineer with over 2 years of experience using Flutter & Dart. In my few years working with Flutter professionally, I've worked on various solutions ranging from fintech, restaurant, salon, etc. 
 
-I work a bit with PHP, MySQL, Nodejs, and Python.
-My current focus is Mobile development and database management, but the dream is to become an AI/Machine Learning expert.
-I'm passionate about teaching and mentoring people in tech industry.
-<!--</p>-->
+I love to share my knowledge with as many people I can reach both online and offline, and was one of the major reasons I created a YouTube channel named [TechWithSam](https://youtube.com/c/TechWithSam?sub_confirmation=1) kindly check it out. 😉
 
-- 🔭 I’m currently working on/or updating some of my Flutter projects i.e [1app on android](https://play.google.com/store/apps/details?id=com.obounce.oneapp1) | [1app on iOS](https://apps.apple.com/ng/app/1app-one-app-all-payments/id1517497322) | [Library app](https://play.google.com/store/apps/details?id=com.obounce.babajide_imran01) | [Hashnode App](https://play.google.com/store/apps/details?id=com.acctgen1.hashnode) | [O'Bounce Technologies](https://play.google.com/store/apps/dev?id=8337051862240891622) etc.
-- 🌱 I’m currently learning Database management using MySQL, PHP, and Nodejs
+- 🔭 I’m currently working on/or updating some of my Flutter projects i.e [1app mobile](https://1app.online/downloads) | [1app Business](https://play.google.com/store/apps/details?id=com.obounce.oneappbusiness) | [Library app](https://play.google.com/store/apps/details?id=com.obounce.babajide_imran01) | [Hashnode App](https://play.google.com/store/apps/details?id=com.acctgen1.hashnode) | [O'Bounce Technologies](https://play.google.com/store/apps/dev?id=8337051862240891622) etc.
+- 🌱 I’m currently learning Flutter Bloc, and Nodejs
 - 👯 I’m looking to collaborate on any Flutter project or any open source projects
 - 🤔 I’m looking for help with Nodejs and MySQL 
 - 💬 Ask me about Flutter/Dart or any tech related stuff --> check [Stack overflow](https://stackoverflow.com/users/12172250/techwithsam)
