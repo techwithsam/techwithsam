@@ -3,7 +3,7 @@
 I'm a mobile engineer with over 3 years of experience using Flutter & Dart. In my few years working with Flutter professionally, I've worked on various solutions ranging from fintech, restaurants, salons, etc.
 
 I love to share my knowledge with as many people I can reach online and offline, and this was one of the primary reasons I created a YouTube channel named TechWithSam
-[TechWithSam](https://youtube.com/c/techwithsam)kindly check it out. 😉
+[TechWithSam](https://youtube.com/c/techwithsam) kindly check it out. 😉
 
 - 🔭 I’m currently working on/or updating some of my Flutter projects i.e [1app mobile](https://1app.online/downloads) | [1app Business](https://play.google.com/store/apps/details?id=com.obounce.oneappbusiness) | Tryv | MiHi-Therapy | [Library app](https://play.google.com/store/apps/details?id=com.obounce.babajide_imran01) | [Hashnode App](https://play.google.com/store/apps/details?id=com.acctgen1.hashnode) | [1app Technologies](https://1app.online/download) | [O'Bounce Technologies](https://play.google.com/store/apps/dev?id=8337051862240891622) etc.
 - 📋 Available for developer role (remote) - [Resume](https://docs.google.com/document/d/1oN_SDzvSnOPBW8xy7e2ZyocrXaARAR1Ih5iTWABmM2E/edit?usp=sharing)
