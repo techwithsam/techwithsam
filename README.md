@@ -58,6 +58,10 @@ I love to share my knowledge with as many people I can reach online and offline,
   
 </details>
 
+### What I am listening to on Spotify now 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=31emh6qkhdaelfsza5qd2cdb4e7a&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 <!--
 <p align = "center">
   <a href="https://github.com/techwithsam/flutter-push-notification-without-firebase">
