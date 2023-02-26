@@ -1,19 +1,20 @@
 ### Hi 👋, I'm [Samuel](https://twitter.com/techwithsam_) 
 
-I'm a mobile engineer with over 3 years of experience using Flutter & Dart. In my few years working with Flutter professionally, I've worked on various solutions ranging from fintech, restaurants, salons, etc.
+I am a highly skilled Flutter developer with nearly 4 years of experience and 3 years of professional experience in the mobile development field. With a passion for creating intuitive and efficient user interfaces, I have worked on a variety of mobile applications using Flutter framework ranging from fintect, e-commerce, Saas, Edutech and lot more.
 
-I love to share my knowledge with as many people I can reach online and offline, and this was one of the primary reasons I created a YouTube channel named TechWithSam
-[TechWithSam](https://youtube.com/c/techwithsam) kindly check it out. 😉
+I have a youtube channel ([TechWithSam](https://youtube.com/c/techwithsam)) where i share my ideas on how to solve common problems in Flutter and also bring up a new topics for the newbies and for those that find it useful. You can check it out with the link above 👆 
 
-- 🔭 I’m currently working on/or updating some of my Flutter projects i.e [1app mobile](https://1app.online/downloads) | [1app Business](https://play.google.com/store/apps/details?id=com.obounce.oneappbusiness) | [Tryv](https://play.google.com/store/apps/details?id=com.tomxcredit.tryv) | MiHi-Therapy | [Library app](https://play.google.com/store/apps/details?id=com.obounce.babajide_imran01) | [Hashnode App](https://play.google.com/store/apps/details?id=com.acctgen1.hashnode) | [1app Technologies](https://1app.online/download) | [O'Bounce Technologies](https://play.google.com/store/apps/dev?id=8337051862240891622) etc.
-- 📋 Available for developer role (remote) - [Resume](https://docs.google.com/document/d/1oN_SDzvSnOPBW8xy7e2ZyocrXaARAR1Ih5iTWABmM2E/edit?usp=sharing)
-- 🌱 I’m currently learning Flutter Bloc, Node.js, Express.js
+
+- 🔭 Some of my recent Flutter projects i.e [1app mobile](https://1app.online/downloads) | [1app Business](https://play.google.com/store/apps/details?id=com.obounce.oneappbusiness) | [Tryv](https://play.google.com/store/apps/details?id=com.tomxcredit.tryv) | MiHi-Therapy | [VTU Silo](https://play.google.com/store/apps/details?id=com.obounce.vtu_silo) | Pebble Card - Coming soon. | [1app Technologies](https://1app.online/download) | [O'Bounce Technologies](https://play.google.com/store/apps/dev?id=8337051862240891622) etc.
+- 📋 I'm available for flutter developer role (remote) - [ Check my CV](https://docs.google.com/document/d/1oN_SDzvSnOPBW8xy7e2ZyocrXaARAR1Ih5iTWABmM2E/edit?usp=sharing)
+- 🌱 I’m currently learning: In-depth animation in Flutter, Advance Flutter Bloc, Node.js (for backend)
 - 👯 I’m looking to collaborate on any Flutter project or any open source projects
 - 🤔 I’m looking for help with Nodejs and MySQL 
 - 💬 Ask me about Flutter/Dart or any tech related stuff --> check [Stack overflow](https://stackoverflow.com/users/12172250/techwithsam)
-- 📫 How to reach me: [Twitter](https://twitter.com/techwithsam_) | [Discord](https://discord.com/invite/NytgTkyw3R) | [WhatsApp](https://wa.me/message/JLGQNNTPG64IH1) | [Facebook](https://www.facebook.com/acctgen) | [LinkedIn](https://linkedin.com/in/techwithsam)
+- 📫 How to reach me: [Twitter](https://twitter.com/techwithsam_) | [Discord](https://discord.com/invite/NytgTkyw3R) | [LinkedIn](https://linkedin.com/in/techwithsam)
 - 💬 My Blogs: [Medium](https://techwithsam.medium.com) | [Hashnode](https://techwithsam.hashnode.dev/) | [Techpadi](https://techpadi.africa/author/acctgen1/) | [Youtube](https://www.youtube.com/c/TechWithSam) | [Devto](https://dev.to/techwithsam)
 - 😄 Pronouns: He/His
+- 🎼 Favorite Musicians: NF and Taya Smith (or Hillsong United)
 - ⚡ Fun fact: In this world nothing matters eventually.
 
 [![wakatime](https://wakatime.com/badge/user/17680bd9-f12b-4310-aea8-6d4494a2eb13.svg)](https://wakatime.com/@17680bd9-f12b-4310-aea8-6d4494a2eb13)
