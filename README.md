@@ -1,6 +1,6 @@
 ### Hi 👋, I'm [Samuel](https://twitter.com/techwithsam_) 
 
-I am a highly skilled Flutter developer with nearly 4 years of experience and 3 years of professional experience in the mobile development field. With a passion for creating intuitive and efficient user interfaces, I have worked on a variety of mobile applications using Flutter framework ranging from fintect, e-commerce, Saas, Edutech and lot more.
+I am a highly skilled Flutter developer with nearly 4 years of experience and 3 years of professional experience in the mobile development field. With a passion for creating intuitive and efficient user interfaces, I have worked on a variety of mobile applications using Flutter framework ranging from fintech, e-commerce, Saas, Edutech and lot more.
 
 I have a youtube channel ([TechWithSam](https://youtube.com/c/techwithsam)) where i share my ideas on how to solve common problems in Flutter and also bring up a new topics for the newbies and for those that find it useful. You can check it out with the link above 👆 
 
