@@ -59,7 +59,7 @@ I have a youtube channel ([TechWithSam](https://youtube.com/c/techwithsam)) wher
   
 </details>
 
-### What I am listening to on Spotify now 🎧
+<!-- ### What I am listening to on Spotify now 🎧 -->
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=31emh6qkhdaelfsza5qd2cdb4e7a&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) -->
 
