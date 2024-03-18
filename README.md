@@ -89,8 +89,8 @@ I have a YouTube channel ([TechWithSam](https://youtube.com/c/techwithsam)) wher
     </a>
 </p>
 -->
-<br>
+<!-- <br>
 <hr>
 <p align = "center">
 Show some ❤️ by starring some of my repositories and do follow 😄!
-</p>
+</p> -->
