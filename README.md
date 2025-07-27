@@ -21,7 +21,7 @@ I have a YouTube channel ([TechWithSam](https://youtube.com/c/techwithsam)) wher
 [![wakatime](https://wakatime.com/badge/user/17680bd9-f12b-4310-aea8-6d4494a2eb13.svg)](https://wakatime.com/@17680bd9-f12b-4310-aea8-6d4494a2eb13)
 [![twitter](https://img.shields.io/twitter/follow/techwithsam_?label=Twitter&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/techwithsam_)
 [![Linkedin](https://img.shields.io/badge/-TechWithSam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/techwithsam/)](https://www.linkedin.com/in/techwithsam/)
-[![website](https://img.shields.io/badge/PortfolioWebsite-Profile-2648ff?style=flat-square&logo=google-chrome)](https://linktr.ee/techwithsam)
+[![website](https://img.shields.io/badge/PortfolioWebsite-Profile-2648ff?style=flat-square&logo=google-chrome)](https://techwithsam.lovable.app/)
 <!-- [![Profile Views](https://gpvc.arturio.dev/acctgen1)](https://twitter.com/techwithsam_) 
 [![Github view](https://komarev.com/ghpvc/?username=techwithsam&label=Github-Views&color=blue&style=plastic)](https://twitter.com/techwithsam_) -->
 <!-- [![github](https://img.shields.io/github/followers/techwithsam?logo=Github&style=plastic)](https://github.com/techwithsam)-->
@@ -30,8 +30,9 @@ I have a YouTube channel ([TechWithSam](https://youtube.com/c/techwithsam)) wher
 
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Swift UI](https://img.shields.io/badge/-SwiftUI-05122A?style=flat&logo=swift)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin&logoColor=092E20)&nbsp;
 
 ---
